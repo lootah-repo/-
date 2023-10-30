@@ -1,1 +1,30 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.xd.mbp31","developerName":"Movieboxpro Team","downloadURL":"https://movieboxpro.app/ipa","iconURL":"https://i.imgur.com/1fD0Dsn.png","localizedDescription":"","name":"Movieboxpro","screenshotURLs":["https://i.imgur.com/6087hYx.png","https://i.imgur.com/Hm6c6Z8.png","https://i.imgur.com/KB7MO9X.png","https://i.imgur.com/9X4zrdm.png","https://i.imgur.com/PzKv5IO.png"],"size":2184796,"subtitle":"Watching movies","tintColor":"018084","version":"Auto","versionDate":"Auto","versionDescription":""}],"identifier":"com.example.source","name":"Lootah apps","news":[],"userInfo":{}}
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "Movieboxpro Team",
+      "downloadURL": "https://movieboxpro.app/ipa",
+      "iconURL": "https://i.imgur.com/1fD0Dsn.png",
+      "localizedDescription": "",
+      "name": "Movieboxpro",
+      "screenshotURLs": [
+        "https://i.imgur.com/6087hYx.png",
+        "https://i.imgur.com/Hm6c6Z8.png",
+        "https://i.imgur.com/KB7MO9X.png",
+        "https://i.imgur.com/9X4zrdm.png",
+        "https://i.imgur.com/PzKv5IO.png"
+      ],
+      "size": 2184796,
+      "subtitle": "Watching movies",
+      "tintColor": "018084",
+      "version": "Auto",
+      "versionDate": "Auto",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Lootah apps",
+  "news": [],
+  "userInfo": {}
+}
